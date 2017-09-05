@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+https://github.com/wthoma22/word_watch 
 
 ## Self Assessment Rubric
 
